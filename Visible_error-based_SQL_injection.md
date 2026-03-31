@@ -1,5 +1,5 @@
 Link Lab: https://portswigger.net/web-security/sql-injection/blind/lab-sql-injection-visible-error-based
-
+Loại lỗ hổng: SQL Injection
 Yêu cầu: Login với tài khoản administrator
 Công cụ: Burp suite
 Như ta đã biết, Visible error-based SQL injection là 1 lỗ hổng lợi dụng hệ thống cấu hình sai, hiển thị các thông báo lỗi quá chi tiết, từ đó ta sẽ biết được cấu trúc CSDL và đánh cắp các thông tin nhạy cảm
